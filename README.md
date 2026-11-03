@@ -28,6 +28,18 @@ I extended the Canvas SDK with reusable interfaces and third-party integrations 
 
 [View my commits](https://github.com/canvas-medical/canvas-plugins/commits/main/?author=dbajet) · [View my pull requests](https://github.com/canvas-medical/canvas-plugins/pulls?q=is%3Apr+author%3Adbajet)
 
+## Selected projects
+
+### [MCP Stock Markets](https://github.com/dbajet/mcp-stock-markets)
+
+An auditable Model Context Protocol application where an AI agent manages a
+virtual S&P 500 portfolio exclusively through authenticated MCP tools.
+
+### [RAG My Docs](https://github.com/dbajet/rag-my-docs)
+
+A transparent retrieval-augmented generation application over IRS publications,
+showing passage retrieval, similarity scores, prompts, citations, and evaluations.
+
 ## Focus
 
 `Python` · `Clinical AI` · `LLM applications and evaluation` · `Healthcare interoperability` · `APIs and integrations`
